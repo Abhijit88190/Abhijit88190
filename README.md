@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhijit88190
-- 👀 I’m interested in Full Stack Web Devlopment
+- 👀 I’m interested in Frontend Web Devlopment
 - 🌱 I’m currently learning Mca 2022-2024
 - 📫 How to reach me www.linkedin.com/in/abhijit-singh-853584257
 
